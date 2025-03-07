@@ -27,6 +27,7 @@ This is also network. Disclaimers about food hygiene and safety will apply but i
 Project Board and User Stories
 In line with Agile methodology, we wrote user stories in the planning and development of our website. The full details of these can be found on our project board.
 
+![Screenshot 2025-03-07 at 15 16 47](https://github.com/user-attachments/assets/9da80ee3-6608-4e1c-b496-22a4642ab713)
 
 
 
