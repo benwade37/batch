@@ -24,3 +24,6 @@ This is primarily aimed at eco-conscious single households, but any food lover c
 
 This is also network. Disclaimers about food hygiene and safety will apply but it is not the responsibility of Urban Bitches. The logistics are too difficult otherwise. 
 
+Wireframes:
+![Screenshot 2025-03-07 at 14 14 39](https://github.com/user-attachments/assets/8b1bd400-037f-4a51-ba70-84ab178c8e53)
+
