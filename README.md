@@ -22,7 +22,7 @@ Target Audience
 
 This is primarily aimed at eco-conscious single households, but any food lover can apply.  They are bored of eating the same stuff and want to share and taste new recipes and trade their food for something of equal value. 
 
-This is also network. Disclaimers about food hygiene and safety will apply but it is not the responsibility of Urban Bitches. The logistics are too difficult otherwise. 
+This is also network. Disclaimers about food hygiene and safety will apply but it is not the responsibility of the Batch Cooking Collective. The logistics are too difficult otherwise. 
 
 Project Board and User Stories
 In line with Agile methodology, we wrote user stories in the planning and development of our website. The full details of these can be found on our project board.
