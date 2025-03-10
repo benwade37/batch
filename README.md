@@ -42,7 +42,8 @@ Wireframes:
 
 ![Screenshot 2025-03-08 at 16 05 41](https://github.com/user-attachments/assets/87b40549-3c8a-4aa0-8d77-b58910691395)
 
-![Screenshot 2025-03-05 at 17 14 20](https://github.com/user-attachments/assets/64efec39-1efa-41f6-b412-e2f9b7db0f97)
+![Screenshot 2025-03-10 at 15 11 37](https://github.com/user-attachments/assets/e74fd6f9-9590-403f-b71b-ff9a3bddd8f8)
+
 
 ![Screenshot 2025-03-06 at 13 10 05](https://github.com/user-attachments/assets/6f60887b-f069-4bf6-8736-486d66669ae1)
 
